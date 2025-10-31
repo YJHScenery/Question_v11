@@ -1,4 +1,4 @@
-// Copyright (C) 2025 叶景皓 Ye Jinghao
+// Copyright (C) 2025 玛卡巴卡YJH
 // SPDX-License-Identifier: GPL-3.0-only OR LGPL-3.0-only
 #include "global.h"
 #include "questionmainwindow.h"
@@ -739,5 +739,6 @@ void QuestionMainWindow::onActionOpenDashboardTriggered()
     )};
     dashboard->setAttribute(Qt::WA_DeleteOnClose);
     dashboard->exec();
+
 
 }
