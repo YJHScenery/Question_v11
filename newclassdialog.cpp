@@ -1,4 +1,4 @@
-// Copyright (C) 2025 叶景皓 Ye Jinghao
+// Copyright (C) 2025 玛卡巴卡YJH
 // SPDX-License-Identifier: GPL-3.0-only OR LGPL-3.0-only
 
 #include "global.h"
@@ -248,3 +248,4 @@ void NewClassDialog::initSet() const
 	ui.visibleButton->setIcon(invisible_icon);
 	ui.visibleButton->setIconSize(ui.visibleButton->size());
 }
+
