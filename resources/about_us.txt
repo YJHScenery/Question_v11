@@ -1,0 +1,8 @@
+<html>
+<p style='font-size: 16pt; font-weight: bold; color: #2c3e50;'>关于我们</p>
+<p>
+在使用软件的过程中，如遇到任何问题，欢迎与我们联系！<br><br>
+邮箱：jehorm19831@163.com<br>
+Bilibili：玛卡巴卡YJH<br>
+</p>
+</html>

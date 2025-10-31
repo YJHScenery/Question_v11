@@ -1,0 +1,20 @@
+<html>
+<p style='font-size: 16pt; font-weight: bold; color: #2c3e50;'>Question 11 专业版</p>
+<p>
+Question 11 专业版<br>
+软件版本: v%1<br>
+内核版本: v%2<br>
+开发者：玛卡巴卡YJH<br>
+<br>
+Qt 组件版本: v%3<br>
+QXlsx 组件版本: v1.5.0<br>
+<br>
+许可协议:<br>
+- 本软件基于 [(L)GPLv3] 发布。<br>
+- 使用以下第三方组件:<br>
+  * Qt Framework (LGPL v3.0) © The Qt Company<br>
+  * QXlsx (MIT License) © John Doe<br>
+<br>
+Copyright (C) 2025 玛卡巴卡YJH
+</p>
+</html>
